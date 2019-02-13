@@ -1,0 +1,4 @@
+username
+ip
+port
+resolution
